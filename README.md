@@ -5,7 +5,7 @@
    *This data shows fuel prices throughout the years from different countries across continents, which are affected by the income level of countries and the level of government subsidies for fuel.*
 
 #   Insights
-- Most of the Countries are non-subsidies to fuels , so that icreasing fuels taxes, which reflects to fuels prices
+- Most of the Countries are non-subsidies to fuels so, that's icreasing fuels taxes, which reflects to fuels prices
   <div>
 <table border="1" class="dataframe">
   <thead>
@@ -50,3 +50,8 @@
   - The prices remained stable for subsidies fuels over the years 
   
 <img width="588" height="590" alt="image" src="https://github.com/user-attachments/assets/3d6605fc-0f55-49cc-b4f5-787ebfd0fee7" />
+
+### Beyond the numbers
+
+- The countries that produce oil have lowest-priced & less affected by fuel crisis
+- Rich countries that non-producing oil can afford high fuel prices unlike  poor countries that non-producing oil
